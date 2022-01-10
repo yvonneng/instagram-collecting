@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Index
-permalink: /index
+title: index
+permalink: /index/
 ---
-This is the main page.
