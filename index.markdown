@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UI Components
+title: List of tools
 nav_order: 1
 has_children: true
 ---
