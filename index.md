@@ -6,5 +6,5 @@ permalink: /
 description: ""
 ---
 ### Welcome to test resource
-[Get Started Now!](https://github.com/yvonneng/test-doc-site){: .btn .btn-blue }
-[Resource Github](https://github.com/yvonneng/test-doc-site){: .btn }
+[Get Started Now!](https://github.com/yvonneng/test-doc-site){: .btn .btn-purple }
+[Resource on Github](https://github.com/yvonneng/test-doc-site){: .btn }
