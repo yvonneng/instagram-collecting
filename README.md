@@ -1,1 +1,1 @@
-# collecting-instagram
+Test documentation resource
