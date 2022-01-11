@@ -26,6 +26,9 @@ After you've decided which elements you need to collect, consider what _properti
 - Look and feel
 - Behaviour
 
-For example, if you're collecting comments, do you just need a plain-text copy of the comment? Or do you need to preserve the way it looked on the page, or do you need to be able to click on the links included in it?
+For example, if you're collecting comments, do you just need a plain-text of the comment? Or do you need to preserve the way it looked on the page? Do you need to be able to click on the links?
 
-Answering these questions will help you decide what [tool](https://yvonneng.github.io/test-insta/tools-overview) to use to collects the elements you need, in the form you need them in. 
+Answering these questions will help you decide what [tool](https://yvonneng.github.io/test-insta/tools-overview) to use to collect the elements you need, in the form you need them in. 
+
+## But how do I know what I need?
+It is important to consider the intended purpose of collecting, and what the requirements are for that use. Spend some time researching. It may be helpful to consult external standards or protocols in your field (e.g. [Berkeley Protocol...](add link)
