@@ -1,4 +1,4 @@
 ---
-title: index
+title: Introduction
 ---
 Welcome to test resource
