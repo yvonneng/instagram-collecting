@@ -1,7 +1,8 @@
 ---
-Title: Instaloader
-nav_order: 2
-has_children: true
+title: Instaloader
+layout: page
+nav_order: 7
+permalink: /instaloader/
 ---
-#Instaloader
-## Requirements
+# Instaloader
+
