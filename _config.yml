@@ -35,5 +35,3 @@ aux_links:
     - "https://library.witness.org/"
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
-
-{% include _includes/footer_custom.html}
