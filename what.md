@@ -8,13 +8,13 @@ Something about using social media as evidence.
 ## Which elements should I collect? 
 Here are some of the different Instagram elements that you could collect. Consider what you need to suit your purposes.
 
-- Instagram interface
 - Media (Image, Video, Album)
 - Captions
 - Comments (timestamp, text, ID)
 - Post metadata (e.g. URL, ID, Timestamp)
 - Like count
 - User profile (ID, username, bio, followers count, name, profile pic, etc)
+- Instagram interface
 - Your browser’s interaction with Instagram site
 
 ## What characteristics of those elements are important?
