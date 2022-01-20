@@ -1,24 +1,24 @@
 ---
-title: What to collect
+title: What should I collect?
 nav_order: 2
 ---
 ## Social media as evidence
-Something about using social media as evidence.
+Something about using social media as evidence...
 
 ## Which elements should I collect? 
-Here are some of the different Instagram elements that you could collect. Consider what you need to suit your purposes.
+There are different Instagram elements that you could collect. Consider what you might need to suit your purposes:
 
-- Media (Image, Video, Album)
-- Captions
-- Comments (timestamp, text, ID)
-- Post metadata (e.g. URL, ID, Timestamp)
-- Like count
-- User profile (ID, username, bio, followers count, name, profile pic, etc)
-- Instagram interface
-- Your browser’s interaction with Instagram site
+- Media (Image, Video, Album)?
+- Captions?
+- Comments (timestamp, text, ID)?
+- Post metadata (e.g. URL, ID, Timestamp)?
+- Like count?
+- User profile (ID, username, bio, followers count, name, profile pic, etc)?
+- Instagram interface?
+- Your browser’s interaction with Instagram site?
 
-## What characteristics of those elements are important?
-After you've decided which elements you need to collect, consider what _properties_ of that element you need to preserve while collecting. Broadly speaking, you can think of properties in these categories:
+## What characteristics of those elements are important to capture?
+After you've decided which elements to collect, consider what _properties_ of each element you need to capture while collecting. Here are some broad categories to consider:
 
 - Intellectual content
 - Context / Environment
@@ -26,9 +26,16 @@ After you've decided which elements you need to collect, consider what _properti
 - Look and feel
 - Behaviour
 
-For example, if you're collecting comments, do you just need a plain-text of the comment? Or do you need to preserve the way it looked on the page? Do you need to be able to click on the links?
+#### Example  
+Some different ways you could collect an Instagram comment:
+Plain text {: .label } Captures intellectual content. Doesn't capture look and feel. 
+Screenshot {: .label } Captures intellectual content and look and feel. Doesn't capture behavior, and text can't be selected or copy/pasted.
+Web archive {: .label } Captures intellectual content, look and feel, and behavior. But it's a more complex format that's harder to use.
 
-Answering these questions will help you decide what [tool](https://yvonneng.github.io/test-insta/tools-overview) to use to collect the elements you need, in the form you need them in. 
+Once you know which elements you need and how it needs to be captured, you can detemine which [tool](https://yvonneng.github.io/instagram-collecting/tools-overview)  serves those needs.
 
 ## But how do I know what I need?
-It is important to consider the intended purpose of collecting, and what the requirements are for that use. Spend some time researching. It may be helpful to consult external standards or protocols in your field (e.g. [Berkeley Protocol...](add link)
+Start with understanding the intended purpose of your collecting and the requirements for that use, and then work backwards. It may be helpful to consult external standards or protocols in your field.
+
+#### Example
+The [Berkeley Protocol on Digital Open Source Investigations](https://www.ohchr.org/Documents/Publications/OHCHR_BerkeleyProtocol.pdf) provides the first global guidelines for using public digital information – including photos, videos and other information posted to social media sites like Facebook, Twitter and YouTube – as evidence in international criminal and human rights investigations.
