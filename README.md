@@ -1,1 +1,2 @@
-This is the repo for test Instagram collecting resource. Edit the markdown (.md) files to edit the content. 
+Repo for the ["Basic Guide to Collecting Instagram"](https://yvonneng.github.io/instagram-collecting) published on Github Pages.
+Edit the markdown (.md) files to edit the content. 
