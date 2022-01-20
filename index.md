@@ -8,7 +8,7 @@ description: ""
 # Basic Guide to Collecting Instagram
 {: .fs-9 }
 
-Trying out Github Pages to publish guidance based on Dec 2021 workshop on Instagram collecting. 
+A basic guide to capturing /collecting Instagram content in various ways. Based on a workshop given in December 2021. 
 {: .fs-6 .fw-300 }
-[Get Started Now!](https://yvonneng.github.io/test-doc-site/what){: .btn .btn-purple }
-[Edit in Github](https://github.com/yvonneng/test-doc-site){: .btn }
+[Get Started Now!](https://yvonneng.github.io/instagram-collecting/what){: .btn .btn-purple }
+[Edit text in Github](https://github.com/yvonneng/instagram-collecting){: .btn }
