@@ -13,6 +13,6 @@ A basic guide to capturing / collecting Instagram content in various ways. Based
 [Get Started Now!](https://yvonneng.github.io/instagram-collecting/what){: .btn .btn-purple }
 [Edit text in Github](https://github.com/yvonneng/instagram-collecting){: .btn }
 
-{: toc}
+
 
 ### About this Guide
