@@ -2,35 +2,42 @@
 title: Basic Instaloader recipes
 layout: page
 parent: Instaloader
-nav_order: 7
-permalink: /instaloader-recipe/
+nav_order: 2
 ---
 # Instaloader
 
-Here are a few basic “recipes” that you can copy/paste to do different things in Instaloader. Anything written below in brackets, e.g. [post], means that you should substitute the actual post ID / username / profile / whatever in (without the brackets) before you hit enter. 
+Here are a few basic “recipes” that you can copy/paste to do different things in Instaloader. These commands are all executed in your Terminal (see [Installing Instaloader](https://yvonneng.github.io/instagram-collecting/ for more on using Terminal). 
 
-You’ll probably need to login to Instagram to access the content:
-instaloader --login=[your_username]
+Note that in the code examples, notes in \[BRACKETS\] mean you need to subsitute with the specific username or ID you want.
 
-* You will then get an interactive prompt to enter your password. Type it in. (Note that you won’t see it on the screen as you’re typing). 
+## Login
+You’ll probably need to login to Instagram to access the content.
+```
+instaloader --login=[YOUR-USERNAME]
+```
+> You will then get an interactive prompt to enter your password. Type it in. (You won’t see the password on the screen as you’re typing). 
 
-To set the folder where you want Instaloader downloads to go:
-cd [drag and drop the folder onto Terminal window]
+## Set the folder where you want Instaloader downloads to go:
+```
+cd [DRAG AND DROP THE FOLDER ONTO THE TERMINAL WINDOW]
+```
+> When you drag and drop the folder, Terminal will type out the file path. Then hit enter. 
 
-* When you drag and drop the folder, Terminal will type out the file path. Then hit enter. 
+## To download a single post (photo/video, caption, Instagram metadata):
+```
+instaloader -- -[POST-ID]
+```
+> Note the syntax: two dashes, space, one dash and  post id (with no space).
 
-To download a single post (photo/video, caption, Instagram metadata):
-instaloader -- -[post_id]
+## To download a single post, as above, but also with geotags and comments:
+```
+instaloader --geotags --comments -- -[POST-ID]
+```
 
-* Note the syntax: two dashes, space, one dash and  post id (with no space).
-
-To download a single post, as above, but also with geotags and comments:
-instaloader --geotags --comments -- -[post_id]
-
-
-To download ALL pictures and videos of a profile, as well as the profile picture:
-instaloader profile [profile]
-
+## To download ALL pictures and videos of a profile, as well as the profile picture:
+```
+instaloader profile [PROFILE-ID]
+```
 
 
 
