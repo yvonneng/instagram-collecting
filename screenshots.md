@@ -1,6 +1,6 @@
 ---
 title: Full-page screenshots
-nav_order: 5
+nav_order: 4
 layout: page
 ---
 
