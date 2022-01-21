@@ -7,8 +7,6 @@ permalink: /instaloader-recipe/
 ---
 # Instaloader
 
-Full user documentation here: https://instaloader.github.io/
-
 Here are a few basic “recipes” that you can copy/paste to do different things in Instaloader. Anything written below in brackets, e.g. [post], means that you should substitute the actual post ID / username / profile / whatever in (without the brackets) before you hit enter. 
 
 You’ll probably need to login to Instagram to access the content:
