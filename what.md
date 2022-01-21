@@ -46,7 +46,7 @@ Web archive
 
 {: .d-inline-block } Captures intellectual content, look and feel, and behavior. But it's a more complex format that's harder to use.
 
-> <video src="https://user-images.githubusercontent.com/5490428/150552077-14d61c2e-f9e4-4337-b313-d6c1ff25afb9.mp4"></video>
+> <video width="480" autoplay> <source src="https://user-images.githubusercontent.com/5490428/150552077-14d61c2e-f9e4-4337-b313-d6c1ff25afb9.mp4" type="video/mp4"></video>
 
 Once you know which elements you need and how it needs to be captured, you can detemine which [tool](https://yvonneng.github.io/instagram-collecting/tools-overview)  serves those needs.
 
