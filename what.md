@@ -28,18 +28,23 @@ After you've decided which elements to collect, consider what _properties_ of ea
 
 ### Example  
 There are different ways you could collect an Instagram caption, which capture different properties of the caption:
+New
+{: .label .label-green }
 
-Plain text {: .label .label-blue }
+Plain text 
+{: .label .label-blue }
 
 Captures intellectual content. Doesn't capture look and feel. 
 > <img width="677" alt="Screen Shot 2022-01-21 at 3 28 17 PM" src="https://user-images.githubusercontent.com/5490428/150543865-ffbe780a-2843-4b16-80d6-3fef9f70f51e.png">
 
-Screenshot {: .label .label-blue}
+Screenshot 
+{: .label .label-blue}
 
 Captures intellectual content and look and feel. Doesn't capture behavior, and text can't be selected or copy/pasted.
 > <img width="491" alt="Screen Shot 2022-01-21 at 3 14 30 PM" src="https://user-images.githubusercontent.com/5490428/150543785-18045808-dc43-46f1-b56e-b4debc09d163.png">
 
-Web archive {: .label .label-blue} 
+Web archive 
+{: .label .label-blue} 
 
 Captures intellectual content, look and feel, and behavior. But it's a more complex format that's harder to use.
 
