@@ -14,3 +14,5 @@ A basic guide to capturing / collecting Instagram content in various ways. Based
 [Edit text in Github](https://github.com/yvonneng/instagram-collecting){: .btn }
 
 {: toc}
+
+### About this Guide
