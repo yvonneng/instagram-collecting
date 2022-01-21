@@ -1,4 +1,0 @@
----
----
-# Instaloader 
-{: TOC }
