@@ -2,6 +2,8 @@
 title: What should I collect?
 nav_order: 2
 ---
+# What should I collect?
+ 
 ## Social media as evidence
 Something about using social media as evidence...
 
@@ -26,7 +28,7 @@ After you've decided which elements to collect, consider what _properties_ of ea
 - Look and feel
 - Behaviour
 
-### Example  
+#### Example  
 There are different ways you could collect an Instagram caption, which capture different properties of the caption:
 
 Plain text 
@@ -51,5 +53,5 @@ Once you know which elements you need and how it needs to be captured, you can d
 ## But how do I know what I need?
 Start with understanding the intended purpose of your collecting and the requirements for that use, and then work backwards. It may be helpful to consult external standards or protocols in your field.
 
-### Example
+#### Example
 The [Berkeley Protocol on Digital Open Source Investigations](https://www.ohchr.org/Documents/Publications/OHCHR_BerkeleyProtocol.pdf) provides the first global guidelines for using public digital information – including photos, videos and other information posted to social media sites like Facebook, Twitter and YouTube – as evidence in international criminal and human rights investigations.
