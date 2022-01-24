@@ -29,3 +29,5 @@ It doesn't capture an infinite scroll, but it can capture it in pieces:
 
 2. Select the "Save full page" option on the right side of the window:
 >![image](https://user-images.githubusercontent.com/5490428/150807812-39c0fc96-2390-4efb-8380-6abe75a0986a.png)
+
+That's it!
