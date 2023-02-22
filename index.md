@@ -16,4 +16,4 @@ A basic guide to capturing / collecting Instagram content in various ways. Based
 
 
 ### About this Guide
-This guide is under construction.
+This guide is under construction and published as a test. 
