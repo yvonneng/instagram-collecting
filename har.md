@@ -7,7 +7,7 @@ nav_order: 6
 
 HAR stands for HTTP Archive format. It's a text-based format (in JSON notation) for logging your web browser's interaction with a web site. Developers and testers use it for troubleshooting performance issues. 
 
-It can also be useful if you need to capture data about your data collection process. **But rememeber: Your HAR file may include your personal data,** such as the contents of the site you are browsing, your cookies, and any information you submit to the website like passwords. 
+It can also be useful if you need to capture data about your data collection process. **But remember: Your HAR file may include your personal data,** such as the contents of the site you are browsing, your cookies, and any information you submit to the website like passwords. 
 
 >![image](https://user-images.githubusercontent.com/5490428/150811748-a3ff7a7c-96db-4259-a549-f0170079f552.png)
 
